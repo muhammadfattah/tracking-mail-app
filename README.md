@@ -1,4 +1,4 @@
 # tracking-mail-app
-Untuk ngejalaninnya buka dua terminal, trus jalanin
+Jalankan perintah berikut di terminal
 - php artisan serve
 - php artisan websocket
